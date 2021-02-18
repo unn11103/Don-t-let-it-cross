@@ -1,0 +1,17 @@
+﻿  main.c
+c:\users\unn\desktop\cproject\cmd\cmd\main.c(169): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+c:\users\unn\desktop\cproject\cmd\cmd\main.c(193): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\unn\desktop\cproject\cmd\cmd\main.c(196): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\unn\desktop\cproject\cmd\cmd\main.c(198): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\unn\desktop\cproject\cmd\cmd\main.c(201): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\unn\desktop\cproject\cmd\cmd\main.c(202): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\unn\desktop\cproject\cmd\cmd\main.c(225): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\unn\desktop\cproject\cmd\cmd\main.c(273): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\unn\desktop\cproject\cmd\cmd\main.c(274): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\unn\desktop\cproject\cmd\cmd\main.c(289): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\unn\desktop\cproject\cmd\cmd\main.c(623): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\unn\desktop\cproject\cmd\cmd\main.c(626): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\unn\desktop\cproject\cmd\cmd\main.c(629): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\unn\desktop\cproject\cmd\cmd\main.c(881): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\unn\desktop\cproject\cmd\cmd\main.c(967): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  cmd.vcxproj -> C:\Users\Unn\Desktop\Cproject\cmd\Debug\cmd.exe
